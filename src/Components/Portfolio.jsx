@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/snow.jpg";
 
-const imageAltText = "picture of snow";
+const imageAltText = "picture of snow fall";
 
 /**
  * Project list
